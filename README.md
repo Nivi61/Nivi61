@@ -15,7 +15,7 @@ What I'm working on
 
 🌱 Learning: Java OOP, Collections, Streams, SQL, JDBC, Spring Boot
 
-🏆 Hackathons and competitions with my team, including Smart India Hackathon 2026
+🏆 Hackathons and competitions with my team, including Smart India Hackathon 2026.
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Nivi61&theme=dark&hide_border=false)<br/>
