@@ -13,7 +13,7 @@ What I'm working on
 
 🔭 Building a Job Application Tracker (Java, Spring Boot, MySQL), growing from a console app to a REST API
 
-🌱 Learning: Java OOP, Collections, Streams, SQL, JDBC, Spring Boot
+🌱 Learning: Java OOP, Collections, Streams, SQL, JDBC, Spring Boot, AWS
 
 🏆 Hackathons and competitions with my team, including Smart India Hackathon 2026.
 
